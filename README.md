@@ -2,6 +2,7 @@
 
 * A list of Medical imaging datasets. Source : https://sites.google.com/site/aacruzr/image-datasets
 * An additional, possibly overlapping list can be found at : https://github.com/beamandrew/medical-data
+* An additional, list : http://www.aylward.org/notes/open-access-medical-image-repositories
 
 ## Image Datasets
 
